@@ -3,7 +3,7 @@ import discord
 from discord.ext import commands
 from discord_slash import cog_ext, SlashContext
 
-GUILD = [396813501827383306] # Put your server ID in this array.
+GUILD = [Insert Guild Token Here] # Put your server ID in this array.
 
 class Slash(commands.Cog):
     def __init__(self, client):
