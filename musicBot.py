@@ -68,4 +68,4 @@ async def stop(ctx):
     voice.stop()
 
 
-client.run('NzY2NDcwNzI3ODc1OTUyNjcy.X4j1fQ.WnRFYwXrAD24FHvQkgcYkLLx87Y')
+client.run('Insert Discord Bot Token Here')
