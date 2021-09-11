@@ -45,4 +45,4 @@ for filename in os.listdir('./cogs'):
     if filename.endswith('.py'):
         client.load_extension(f'cogs.{filename[:-3]}')
 
-client.run('NzY2NDcwNzI3ODc1OTUyNjcy.X4j1fQ.WnRFYwXrAD24FHvQkgcYkLLx87Y')
+client.run('Insert Discord Token Here')
